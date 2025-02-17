@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "name": "RF Launcher",
+            "id": "6FF1-7863-4E23-05AA-1E48-8538-03EB-77DF",
             "enable": true,
-			"anti_spam": false
+            "anti_spam": false
         }
     ]
 }
