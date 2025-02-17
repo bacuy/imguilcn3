@@ -1,0 +1,9 @@
+{
+    "data": [
+        {
+            "name": "RF Launcher",
+            "enable": true,
+			"anti_spam": false
+        }
+    ]
+}
