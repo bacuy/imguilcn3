@@ -4,11 +4,6 @@
             "id": "6FF1-7863-4E23-05AA-1E48-8538-03EB-77DF",
             "enable": true,
             "anti_spam": false
-        },
-        {
-            "id": "6FF1-7863-4E23-05AA-1E48-8538-03EB-77D1",
-            "enable": false,
-            "anti_spam": false
         }
     ]
 }
